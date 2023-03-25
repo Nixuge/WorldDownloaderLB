@@ -1,6 +1,6 @@
 /// api_version=2
 var script = registerScript({
-    name: "TestScript",
+    name: "WorldDownloaderModule",
     version: "1.0.0",
     authors: ["Nixuge"]
 });
